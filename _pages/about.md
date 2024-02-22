@@ -9,27 +9,25 @@ redirect_from:
 
 I am a master's student in Computer Science at Aalto University. I mainly work with python and Javascript, participating in some cloud-computing researches and business development. I wish to land a summer job after 2023-2024 academic year as a software engineer or a developer. If you are hiring, feel free to email me at ziqi.wang@aalto.fi.
 
-My interests land on the intersection of cloud computing, big data and software engineering. I have done related researches and courses at the University.
+My interests land on the intersection of cloud computing, big data and software engineering. I have done related researches and courses at the university.
 
-## Education <a id="education"></a>
+## 📚 Education <a id="education"></a>
 
-My Education
+- 2019.09 - 2023.06 University of Oulu, BSc in Software Engineering
+- 2023.09 - present Aalto University, MSc in Computer Science
 
-My Education
 
-My Education
 
-My Education
 
-My Education
 
-My Education
-
-My Education
-
-My Education
 
 ## 👾 Projects<a id="projects"></a>
+
+| Demo Image      | Description |
+| ----------- | ----------- |
+| <img src="./../images/bio-photo.jpg">| Interactive Particles Simulation based on WebGPU (JUNCTION 2023 Top5 Project) Nov 2023 - Dec 2023 |
+|hi|hi|
+
 
 
 
