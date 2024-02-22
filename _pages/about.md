@@ -16,11 +16,6 @@ My interests land on the intersection of cloud computing, big data and software 
 - 2019.09 - 2023.06 University of Oulu, BSc in Software Engineering
 - 2023.09 - present Aalto University, MSc in Computer Science
 
-
-
-
-
-
 ## 👾 Projects<a id="projects"></a>
 
 | Demo Image      | Description |
